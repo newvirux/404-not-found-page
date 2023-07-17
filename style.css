@@ -70,7 +70,7 @@ body {
     align-items: center;
     margin-left: 30px;
   }
-  .welcome-text {
+  .texto-bemvindo {
     margin-left: 40px;
   }
   .scarecrow img {
@@ -79,7 +79,7 @@ body {
     flex-shrink: 0;
     margin-left: 60px;
   }
-  .message {
+  .mensagem {
     display: flex;
     width: 350px;
     flex-direction: column;
@@ -87,7 +87,7 @@ body {
     justify-content: center;
     align-items: center;
   }
-  .message p {
+  .mensagem p {
     color: var(--gray-1, #333);
     font-family: Space Mono;
     font-size: 48px;
@@ -96,7 +96,7 @@ body {
     line-height: normal;
     letter-spacing: -1.68px;
   }
-  .info {
+  .informacao {
     color: var(--gray-2, #4f4f4f);
     font-family: Space Mono;
     font-size: 18px;
@@ -105,8 +105,5 @@ body {
     line-height: normal;
     letter-spacing: -0.63px;
     margin-bottom: 66px;
-  }
-  .create p {
-    margin-top: 114px;
   }
 }
